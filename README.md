@@ -19,3 +19,11 @@ Something you may need：
 TWRP: https://dl.twrp.me/polaris/  
 Orange fox: https://orangefox.download/zh-CN/device/polaris  
 Xiaomi Firmware: https://xiaomifirmwareupdater.com/firmware/polaris/  
+
+-------------------------
+
+## 您可以从以下链接下载文件：
+You can download the file from the following link:  
+
+China Baidu Netdisk: https://pan.baidu.com/s/12g-uyyG9daIba5TBCf3-Zg?pwd=7wka  PWD: `7wka`
+China 189 Cloud: https://cloud.189.cn/t/mE7VBnJZVJNb PWD: `mui4`
