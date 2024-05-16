@@ -1,0 +1,92 @@
+Vendor.img 来自 polaris_global_images_8.11.15_20181115.0000.00_9.0_global_3dc5c2bb71.tgz 
+
+https://xiaomirom.com/download/mi-mix-2s-polaris-weekly-8.11.15/#global-fastboot
+
+DotOS、du、Havoc、PixelExperience
+需要刷入此Vendor镜像开机。
+
+--------------------------------
+
+Arrow-v9.0-polaris-OFFICIAL-20200129.zip
+3122C9BF42DA81F9DFB74D05B0D5471C
+775MB
+无Google
+官方
+https://arrowos.net/download/polaris
+https://sourceforge.net/projects/arrow-os/files/arrow-9.x/polaris/
+
+crDroidAndroid-9.0-20190814-polaris-v5.7.zip
+A29035A0F66B85AF366F5E0F838FD489
+823MB
+无Google
+非官方
+必须先刷fw9, 不然刷不了包
+https://forum.xda-developers.com/t/rom-unofficial-9-0-crdroid-5-7-polaris-15-08-2019.3923318/
+https://mega.nz/folder/EFt0VAiB#xP6BiLibJF2iKWASzd-6Ow
+
+dotOS-P-v3.0-polaris-OFFICIAL-20190513-0712.zip1684F68044F6ACD19549C10167697FCB
+515MB
+无Google
+官方
+需要 polaris-global-dev-8.11.15-vendor.img 开机
+https://forum.xda-developers.com/t/rom-official-9-0-0_r37-dotos-for-polaris.3905144/
+https://sourceforge.net/projects/dotos-downloads/files/dotp/polaris/
+
+du_polaris-v13.0-20190221-0443-UNOFFICIAL.zip
+B419D5F331ECF3407F6C520F1DF89FDF
+448MB
+无Google
+非官方
+非最终版本（依据酷友@juvevood（UID 494156）的动态，应该是13.2，20190513版本，https://coolapk.com/feed/11705573）
+需要 polaris-global-dev-8.11.15-vendor.img 开机
+https://t.me/Mix2sArsenal/193
+
+EvolutionX_2.1_polaris-9.0-20190907-1845-UNOFFICIAL.zip
+21C538E2BF637CD9553B48AB7B497363
+1.11GB
+有Google
+非官方
+必须先刷fw9, 不然刷不了包
+https://t.me/Mix2sArsenal/369
+https://drive.google.com/file/d/1yfXsDi1P72mnCP7RTI3HX2oX-msfhejl/view
+
+Havoc-OS-v2.0-20190101-polaris-Unofficial.zip
+65BB64A34C2D553AC7BF8C31DE726095
+440MB
+无Google
+非官方
+非最终版本（根据某酷友截图可能是2.9, 20190913版本）
+需要 polaris-global-dev-8.11.15-vendor.img 开机
+https://t.me/xda_mi_mix_2s/96513
+
+lineage-16.0-20200324-nightly-polaris-signed.zip
+B624AE2544AEC2D2440BB6228B243379
+805MB
+无Google
+官方
+官网，目前官方已删除
+
+MK90.0-polaris-210620-HISTORY.zip
+DB8D881CC84C455C34C8F13C1BB80C2B
+918MB
+无Google
+官方
+https://sourceforge.net/projects/mokee/files/HISTORY/polaris/
+
+PixelExperience_polaris-9.0-20190525-0731-OFFICIAL.zip 
+A961CD44ECE06DA9523C1E2537635CD1
+837MB
+有Google
+官方
+非最终A9版本
+需要 fw9 、 polaris-global-dev-8.11.15-vendor.img 开机。
+https://androidfilehost.com/?fid=6006931924117882355
+
+RR-P-v7.0.2-20190815-polaris-Unofficial.zip 
+0D83A8DC006FE5464279AEFD800DDAF1
+821MB
+无Google
+非官方
+https://forum.xda-developers.com/t/rom-pie-unofficial-resurrection-remix-7-0-2-polaris-15-08-19.3893253/
+https://mega.nz/#F!JJ1BwKxT!I9H5mniKtG4joKjTcPVZhA
+
