@@ -11,3 +11,11 @@ Mi Mix2s ROM Share
 
 请先尝试从原始链接下载。当您确认原始链接无法访问，请提交issues。  
 Please try downloading from the original link first. When you confirm that the original link cannot be accessed, please submit the issues.
+
+-------------------------
+## 一些您可能需要的东西：
+Something you may need：  
+
+TWRP: https://dl.twrp.me/polaris/  
+Orange fox: https://orangefox.download/zh-CN/device/polaris  
+Xiaomi Firmware: https://xiaomifirmwareupdater.com/firmware/polaris/  
