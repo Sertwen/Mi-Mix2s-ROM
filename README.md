@@ -1,4 +1,6 @@
-# Mi-Mix2s-ROM
+# Mi-Mix2s-ROM  
+
+小米 Mix2s ROM 分享，仅类原生。  
 Mi Mix2s ROM Share, Only native-like systems.
 
 [Android 8](A8.MD)  
@@ -10,11 +12,14 @@ Mi Mix2s ROM Share, Only native-like systems.
 [Android 14](A14.MD)    
 
 请先尝试从原始链接下载。当您确认原始链接无法访问，请提交 Issues 。  
-Please try downloading from the original link first. When you confirm that the original link cannot be accessed, please submit the issues.
+Please try downloading from the original link first. When you confirm that the original link cannot be accessed, please submit the issues.  
+
+网站【coolapk.com】仅能使用中国IP访问。  
+The website [coolapk.com] can only be accessed using a Chinese IP.  
 
 -------------------------
 ## 一些您可能需要的东西：
-Something you may need:  
+**Something you may need:**  
 
 Xiaomi ROM: https://xiaomirom.com/en/series/polaris/  
 Xiaomi Firmware: https://xiaomifirmwareupdater.com/firmware/polaris/  
@@ -28,7 +33,7 @@ NikGapps: https://sourceforge.net/projects/nikgapps/files/Releases/
 -------------------------
 
 ## 您可以从以下链接下载文件：
-You can download the file from the following link:  
+**You can download the file from the following link:**  
 
 China Baidu Netdisk (PWD: `7wka`):  
 https://pan.baidu.com/s/12g-uyyG9daIba5TBCf3-Zg?pwd=7wka  
