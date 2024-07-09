@@ -25,7 +25,7 @@ Xiaomi ROM: https://xiaomirom.com/en/series/polaris/
 Xiaomi Firmware: https://xiaomifirmwareupdater.com/firmware/polaris/  
 
 TWRP: https://dl.twrp.me/polaris/  
-Orange fox: https://orangefox.download/zh-CN/device/polaris  
+OrangeFox: https://orangefox.download/zh-CN/device/polaris  
 
 OpenGapps: https://sourceforge.net/projects/opengapps/files/arm64/20220503/  
 NikGapps: https://sourceforge.net/projects/nikgapps/files/Releases/
