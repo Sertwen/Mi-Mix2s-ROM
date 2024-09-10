@@ -22,7 +22,7 @@ The website [coolapk.com] can only be accessed using a Chinese IP.
 **Something you may need:**  
 
 Xiaomi ROM: https://xiaomirom.com/en/series/polaris/  
-Xiaomi Firmware: https://xiaomifirmwareupdater.com/firmware/polaris/  
+Xiaomi Firmware: https://xmfirmwareupdater.com/firmware/polaris/    
 
 TWRP: https://dl.twrp.me/polaris/  
 OrangeFox: https://orangefox.download/zh-CN/device/polaris  
@@ -33,13 +33,10 @@ NikGapps: https://sourceforge.net/projects/nikgapps/files/Releases/
 -------------------------
 
 ## 您可以从以下链接下载文件：
-**You can download the file from the following link:**  
+**You can download the file from the following link:**    
 
-China Baidu Netdisk (PWD: `7wka`):  
-https://pan.baidu.com/s/12g-uyyG9daIba5TBCf3-Zg?pwd=7wka  
-
-China 189 Cloud (PWD: `mui4`):  
+天翼云盘 (提取码: `MUI4`):  
 https://cloud.189.cn/t/mE7VBnJZVJNb  
 
-Global OneDrive:  
+Microsoft OneDrive:  
 https://1drv.ms/f/c/3b9538e9da817f83/EgfiSPBNSJ5JgpsONq9_C6EBZPqcU4FlGS4gLsMIuTrUXg?e=8L1OUy
