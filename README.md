@@ -14,12 +14,12 @@ Mi Mix2s ROM Share, Only native-like systems.
 请先尝试从原始链接下载。  
 当您确认原始链接无法访问，请提交 Issues 。   
 欢迎提交新的ROM，但请事先征得开发者同意。  
-* 网站【coolapk.com】仅能使用中国IP访问。
+网站【coolapk.com】仅能使用中国IP访问。  
 
 Please try downloading from the original link first.  
 When you confirm that the original link cannot be accessed, please submit the issues.  
 You are welcome to submit new ROMs, but please obtain the developer's consent in advance.  
-* The website [coolapk.com] can only be accessed using a Chinese IP.  
+The website [coolapk.com] can only be accessed using a Chinese IP.  
 
 -------------------------
 ## 一些您可能需要的东西：
