@@ -9,7 +9,8 @@ Mi Mix2s ROM Share, Only native-like systems.
 [Android 11](A11.MD)  
 [Android 12](A12.MD)  
 [Android 13](A13.MD)  
-[Android 14](A14.MD)    
+[Android 14](A14.MD)  
+[Android 15 TEST](A15-TEST.MD)  
 
 请先尝试从原始链接下载。  
 当您确认原始链接无法访问，请提交 Issues 。   
