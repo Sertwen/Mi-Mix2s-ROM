@@ -13,4 +13,4 @@ MD5: `F417F7FA38AD7455559024FB7959A8C1`
 Developer: http://www.coolapk.com/u/27842294  
 Post: https://www.coolapk.com/feed/60634894  
 Note: **1.Please use orangefox-R11.1_4 or included recovery to flash the rom. 
-	2.This version contains KernelSU, Please don't flash Magisk.**
+		2.This version contains KernelSU, Please don't flash Magisk.**
