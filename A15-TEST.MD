@@ -10,8 +10,8 @@ Developer: http://www.coolapk.com/u/2436868
 Post: https://www.coolapk.com/feed/60720786  
 
 ## RisingOS 6.0 BETA by RundsXE
-Name: `RisingOS-6.0-BETA-20241114-GAPPS-UNOFFICIAL-polaris.zip`  
-MD5: `F417F7FA38AD7455559024FB7959A8C1`  
+Name: `RisingOS-6.0-BETA-20241118-GAPPS-UNOFFICIAL-polaris-63Hz.zip`  
+MD5: `3156C88589A2175E7B8F62477A09A06C`  
 Developer: http://www.coolapk.com/u/27842294  
 Post: https://www.coolapk.com/feed/60634894  
-Note: **This version already included KernelSU, Please don't flash Magisk.**
+Note: **①This version already included KernelSU, Please don't flash Magisk. ②If there are touch or display issues, please refresh 60hz boot.img**
