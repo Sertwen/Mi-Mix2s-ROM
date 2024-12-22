@@ -17,15 +17,16 @@ Link: https://evox.onelots.fr/downloads
 
 # Unofficial  
 
-## crDroid 11.0 BETA by 没空的人Zero
-Name: `crDroidAndroid-15.0-20241127-polaris-v11.0-BETA.zip`  
-MD5: `609517256C14881D5B07505E4D7C662B`  
+## crDroid 11.0 by 没空的人Zero
+Name: `crDroidAndroid-15.0-20241221-polaris-v11.0.zip`  
+MD5: `C5B6BF0F1C961ABB04A01ED6AA0F8515`  
 Developer: http://www.coolapk.com/u/2436868  
-Post: https://www.coolapk.com/feed/61004846  
+Post: https://www.coolapk.com/feed/61602774  
 
 ## RisingOS 6.0 by RundsXE
-Name: `RisingOS-6.0-STABLE-24121110-GAPPS-UNOFFICIAL-polaris-60Hz.zip`  
-MD5: `0FD708F134177B4D5026B3558EA36E74`  
+Name: `RisingOS-6.0-STABLE-24121806-GAPPS-UNOFFICIAL-polaris-60Hz.zip`  
+MD5: `9EB6DB1A5373971400962B1FEC719275`  
 Developer: http://www.coolapk.com/u/27842294  
 Post: https://www.coolapk.com/feed/60634894  
+Link: https://sourceforge.net/projects/risingos-unofficial/files/6.x/GAPPS/polaris/  
 Note: **This version already included KernelSU, Please install the provided manager.**
