@@ -24,8 +24,6 @@ Developer: http://www.coolapk.com/u/2436868
 Post: https://www.coolapk.com/feed/61602774  
 
 ## RisingOS 6.0 by RundsXE
-Name: `RisingOS-6.0-STABLE-24121806-GAPPS-UNOFFICIAL-polaris-60Hz.zip`  
-MD5: `9EB6DB1A5373971400962B1FEC719275`  
 Developer: http://www.coolapk.com/u/27842294  
 Post: https://www.coolapk.com/feed/60634894  
 Link: https://sourceforge.net/projects/risingos-unofficial/files/6.x/GAPPS/polaris/  
